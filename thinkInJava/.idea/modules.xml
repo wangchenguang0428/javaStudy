@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/datastructuresandalgorithms/datastructuresandalgorithms.iml" filepath="$PROJECT_DIR$/datastructuresandalgorithms/datastructuresandalgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designmodel/designmodel.iml" filepath="$PROJECT_DIR$/designmodel/designmodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8/java8.iml" filepath="$PROJECT_DIR$/java8/java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javadesignmodel/javadesignmodel.iml" filepath="$PROJECT_DIR$/javadesignmodel/javadesignmodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/juc/juc.iml" filepath="$PROJECT_DIR$/juc/juc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study01/study01.iml" filepath="$PROJECT_DIR$/study01/study01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study_jvm/study_jvm.iml" filepath="$PROJECT_DIR$/study_jvm/study_jvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/thinkInJava.iml" filepath="$PROJECT_DIR$/.idea/thinkInJava.iml" />
+    </modules>
+  </component>
+</project>

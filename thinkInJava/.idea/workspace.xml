@@ -1,0 +1,1099 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae3479df-d49d-4cca-b8db-7e2c8b0cc95d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/thinkInJava$HeapOOM.ic" NAME="HeapOOM Coverage Results" MODIFIED="1561444651052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.book.chapter01.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="788685923">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.15" value="6" />
+          <entry key="project.open.time.16" value="5" />
+          <entry key="project.open.time.17" value="5" />
+          <entry key="project.open.time.18" value="3" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.4" value="5" />
+          <entry key="project.open.time.5" value="5" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="66" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="List" value="2" />
+          <entry key="class" value="15" />
+          <entry key="dump" value="5" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="465" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="15" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="465" />
+          <entry key="Manifest" value="5" />
+          <entry key="UML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="class" value="13" />
+          <entry key="dummy" value="20" />
+          <entry key="java" value="39424" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="13" />
+          <entry key="JAVA" value="39424" />
+          <entry key="PLAIN_TEXT" value="20" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/HelloGC02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/GCRootDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>国</find>
+      <find>threadStatus</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/leetcode/src/com/leetcode/part01/part01_1/Solution.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/com/leetcode/part01/part01_1/SolutionTwoSum.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/com/leetcode/part01/part01_1/SolutionTwoPlus.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/com/leetcode/part01/part01_1/SolutionMaxLengthSubString.java" />
+        <option value="$PROJECT_DIR$/java8/java8.iml" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/juc/SingletonDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/juc/CASDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/juc/AtomicReferenceDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/juc/ABADemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/container/ContainerNotSafeDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/juc/T1.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/juc/VolitaileDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/juc/ReenterLockDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/juc/spinLockDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/juc/ReadWriteLockDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/juc/CountDownLatchDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/juc/CountryEnum.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/juc/CyclicBarrierDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/juc/SemaphoreDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/queue/BlockingQueueDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/queue/SynchronousQueue.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/queue/SynchronousQueueDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/consumerproducer/ProdConsumer_TraditionDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/consumerproducer/SyncAndReentrantLockDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/day01/java8/FilterEmployeeBySalary.java" />
+        <option value="$PROJECT_DIR$/java8/src/day01/exer/TestLambda.java" />
+        <option value="$PROJECT_DIR$/java8/src/day02/java8/Employee.java" />
+        <option value="$PROJECT_DIR$/java8/src/day01/java8/Employee.java" />
+        <option value="$PROJECT_DIR$/java8/src/day02/exer/TestStreamAPI.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/executerpool/CallableDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/consumerproducer/ProdCosumer_BlockQueueDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/executerpool/MyThreadPoolDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/juc/DeadLockDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/GCRootDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/HelloGC.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/StrongReferenceDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/SoftRefeceDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/SoftReferenceDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/WeakReferenceDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/WeakHashMapDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/ReferenceQueueDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/PhantomReferenceDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/StackOverflowErroDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/StackOverflowErrorDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/JavaHeapSpaceDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/GCOverheadDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/DirectBufferMemoryDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/T.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/UnableCreateNewThreadDemo.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/MetaspaceOOMTest.java" />
+        <option value="$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/HelloGC02.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1026" />
+    <option name="height" value="708" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="thinkInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkInJava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563154356095" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.6" />
+    <property name="last_opened_file_path" value="D:/workspace/heibei_workspace/kanban_idea" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day02.java8" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace_idea\thinkInJava\java8\lib" />
+      <recent name="D:\workspace_idea\thinkInJava\java8\src\day01" />
+      <recent name="D:\workspace_idea\thinkInJava\study_jvm\lib" />
+      <recent name="D:\workspace_idea\thinkInJava\study_jvm\src\com\book\chapter01" />
+      <recent name="D:\workspace_idea\thinkInJava\juc\src\com\atguigu" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.HelloGC02">
+    <configuration name="DirectBufferMemoryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewquestion.jvmgc.DirectBufferMemoryDemo" />
+      <module name="java8" />
+      <option name="VM_PARAMETERS" value="-XX:MaxDirectMemorySize=5m -XX:+PrintGCDetails" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interviewquestion.jvmgc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirectMemoryOOM" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="D:\datang\jdk\jdk1.7\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.book.chapter01.DirectMemoryOOM" />
+      <module name="study_jvm" />
+      <option name="VM_PARAMETERS" value="-Xmx20M  -XX:MaxDirectMemorySize=10M" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.book.chapter01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloGC02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewquestion.jvmgc.HelloGC02" />
+      <module name="java8" />
+      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m -XX:+PrintGCDetails -XX:+PrintCommandLineFlags" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interviewquestion.jvmgc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaMethodAreaOOM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.book.chapter01.JavaMethodAreaOOM" />
+      <module name="study_jvm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.book.chapter01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MetaspaceOOMTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewquestion.jvmgc.MetaspaceOOMTest" />
+      <module name="java8" />
+      <option name="VM_PARAMETERS" value="-XX:MetaspaceSize=20m -XX:MaxMetaspaceSize=20m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interviewquestion.jvmgc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewquestion.jvmgc.T" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interviewquestion.jvmgc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DirectMemoryOOM" />
+      <item itemvalue="Application.DirectBufferMemoryDemo" />
+      <item itemvalue="Application.T" />
+      <item itemvalue="Application.MetaspaceOOMTest" />
+      <item itemvalue="Application.JavaMethodAreaOOM" />
+      <item itemvalue="Application.HelloGC02" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloGC02" />
+        <item itemvalue="Application.MetaspaceOOMTest" />
+        <item itemvalue="Application.JavaMethodAreaOOM" />
+        <item itemvalue="Application.T" />
+        <item itemvalue="Application.DirectBufferMemoryDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae3479df-d49d-4cca-b8db-7e2c8b0cc95d" name="Default Changelist" comment="" />
+      <created>1542420253844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542420253844</updated>
+      <workItem from="1542420256773" duration="628000" />
+      <workItem from="1542896884625" duration="2243000" />
+      <workItem from="1543127484588" duration="283000" />
+      <workItem from="1543127815862" duration="1950000" />
+      <workItem from="1545640958089" duration="4385000" />
+      <workItem from="1545702817132" duration="12971000" />
+      <workItem from="1545877268762" duration="2141000" />
+      <workItem from="1545962702443" duration="772000" />
+      <workItem from="1546394906205" duration="596000" />
+      <workItem from="1546480004940" duration="1416000" />
+      <workItem from="1546567370751" duration="665000" />
+      <workItem from="1546826083940" duration="596000" />
+      <workItem from="1546832435285" duration="614000" />
+      <workItem from="1546912499452" duration="599000" />
+      <workItem from="1546998650515" duration="1256000" />
+      <workItem from="1558432407027" duration="897000" />
+      <workItem from="1558487487743" duration="1254000" />
+      <workItem from="1558578259152" duration="595000" />
+      <workItem from="1558781288710" duration="1332000" />
+      <workItem from="1559011142256" duration="5702000" />
+      <workItem from="1559092210384" duration="6405000" />
+      <workItem from="1559178743865" duration="1364000" />
+      <workItem from="1559265725901" duration="3869000" />
+      <workItem from="1559351780202" duration="3018000" />
+      <workItem from="1559540740646" duration="9113000" />
+      <workItem from="1559610977206" duration="19894000" />
+      <workItem from="1559785197180" duration="594000" />
+      <workItem from="1559913356769" duration="1722000" />
+      <workItem from="1559957023333" duration="5498000" />
+      <workItem from="1560302435567" duration="646000" />
+      <workItem from="1560348545172" duration="3063000" />
+      <workItem from="1560429115266" duration="4072000" />
+      <workItem from="1560588290865" duration="10896000" />
+      <workItem from="1560694828429" duration="1633000" />
+      <workItem from="1560739290343" duration="11024000" />
+      <workItem from="1560820720740" duration="6781000" />
+      <workItem from="1560910989452" duration="2412000" />
+      <workItem from="1560992679628" duration="3902000" />
+      <workItem from="1561165744053" duration="11066000" />
+      <workItem from="1561254165360" duration="6403000" />
+      <workItem from="1561294163946" duration="4450000" />
+      <workItem from="1561345528512" duration="1002000" />
+      <workItem from="1561444422047" duration="786000" />
+      <workItem from="1561456799088" duration="642000" />
+      <workItem from="1561528408472" duration="12743000" />
+      <workItem from="1561600372635" duration="2675000" />
+      <workItem from="1561624907901" duration="16082000" />
+      <workItem from="1561728349522" duration="3973000" />
+      <workItem from="1561772852048" duration="22155000" />
+      <workItem from="1561814719105" duration="4100000" />
+      <workItem from="1561859533492" duration="16854000" />
+      <workItem from="1561947990765" duration="15149000" />
+      <workItem from="1562028721898" duration="20856000" />
+      <workItem from="1562074958952" duration="1287000" />
+      <workItem from="1562116058726" duration="18612000" />
+      <workItem from="1562248315641" duration="2769000" />
+      <workItem from="1562293874763" duration="22627000" />
+      <workItem from="1562392007459" duration="40237000" />
+      <workItem from="1562634387341" duration="22150000" />
+      <workItem from="1562720026405" duration="26665000" />
+      <workItem from="1562807117873" duration="6818000" />
+      <workItem from="1562814537678" duration="15917000" />
+      <workItem from="1562851994438" duration="1232000" />
+      <workItem from="1562893355362" duration="25542000" />
+      <workItem from="1562981930331" duration="16458000" />
+      <workItem from="1563152516867" duration="1004000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestAnnotation_test1 - 2019.07.01 at 17h 33m 27s.xml">
+      <configuration name="TestAnnotation.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAnnotation_test1 - 2019.07.01 at 18h 24m 27s.xml">
+      <configuration name="TestAnnotation.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTwoPlus_test - 2019.07.02 at 14h 23m 50s.xml">
+      <configuration name="SolutionTwoPlus.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLambda_test111 - 2019.07.10 at 12h 59m 47s.xml">
+      <configuration name="TestLambda.test111" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLambda_test111 - 2019.07.10 at 13h 01m 39s.xml">
+      <configuration name="TestLambda.test111" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStreamAPI_test1 - 2019.07.10 at 13h 34m 36s.xml">
+      <configuration name="TestStreamAPI.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStreamAPI_test2 - 2019.07.10 at 13h 35m 38s.xml">
+      <configuration name="TestStreamAPI.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStreamAPI_test2 - 2019.07.10 at 13h 59m 16s.xml">
+      <configuration name="TestStreamAPI.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStreamAPI_test3 - 2019.07.10 at 13h 59m 21s.xml">
+      <configuration name="TestStreamAPI.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStreamAPI1_test1 - 2019.07.10 at 14h 58m 36s.xml">
+      <configuration name="TestStreamAPI1.test1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="477055000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4962963" visible="true" weight="0.196443" />
+      <window_info id="Structure" order="1" sideWeight="0.5037037" side_tool="true" weight="0.2918351" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32962963" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.62409055" visible="true" weight="0.29365963" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26296297" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32962963" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.19354838" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.37590945" side_tool="true" weight="0.16481481" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32962963" />
+      <window_info anchor="bottom" id="Problems" order="12" weight="0.32962963" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" x="165" y="47" width="273" height="495" id="Documentation" order="9" side_tool="true" weight="0.18674211" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32983023" />
+      <window_info anchor="right" id="jclasslib" order="11" weight="0.44866613" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4962963" visible="true" weight="0.19349681" />
+      <window_info id="Structure" order="1" sideWeight="0.5037037" side_tool="true" weight="0.2918351" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32962963" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.62409055" visible="true" weight="0.43381536" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26296297" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32962963" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.19354838" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.37590945" side_tool="true" weight="0.16481481" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32962963" />
+      <window_info anchor="bottom" id="Problems" order="12" weight="0.32962963" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" x="165" y="47" width="273" height="495" id="Documentation" order="9" side_tool="true" weight="0.18674211" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32983023" />
+      <window_info anchor="right" id="jclasslib" order="11" weight="0.44866613" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/juc/src/com/atguigu/juc01/TestVolatile.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/juc/src/com/atguigu/juc01/TestAtomicDemo.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/juc/src/com/atguigu/juc02/TestLock.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/juc/src/com/atguigu/juc03/DeadLockDemo.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/juc/src/com/atguigu/juc01/TestAtomicDemo.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java8/src/java8/TestLambda.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/datang/jdk/jdk1.8/src.zip!/java/util/stream/Collectors.java</url>
+          <line>759</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/datang/jdk/jdk1.8/src.zip!/java/util/stream/Collectors.java</url>
+          <line>159</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/com/leetcode/part01/part01_1/SolutionMaxLengthSubString.java</url>
+          <line>166</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/com/leetcode/part01/part01_1/SolutionMaxLengthSubString.java</url>
+          <line>209</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="set" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>s.charAt(j++)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>reducing(0L, e -&gt; 1L, Long::sum)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Long::sum</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/java8/src/day02/exer/TestStreamAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="42" column="7" lean-forward="true" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/day01/java8/FilterEmployeeBySalary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/day01/java8/FilterEmployeeByAge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/day01/java8/TestMethodRef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1539">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/datang/jdk/jdk1.8/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="819" column="35" lean-forward="true" selection-start-line="819" selection-start-column="35" selection-end-line="819" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/datang/jdk/jdk1.8/src.zip!/java/util/function/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/datang/jdk/jdk1.8/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="1049" column="31" selection-start-line="1049" selection-start-column="31" selection-end-line="1049" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/day01/java8/TestStreamAPI1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/interviewquestion/consumerproducer/ProdCosumer_BlockQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="78" column="24" lean-forward="true" selection-start-line="78" selection-start-column="24" selection-end-line="78" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/interviewquestion/executerpool/CallableDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="48" column="39" lean-forward="true" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/datang/jdk/jdk1.8/src.zip!/java/util/concurrent/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2068">
+          <caret line="127" column="27" selection-start-line="127" selection-start-column="27" selection-end-line="127" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/datang/jdk/jdk1.8/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3916">
+          <caret line="212" column="7" selection-start-line="212" selection-start-column="7" selection-end-line="212" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/datang/jdk/jdk1.8/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="215" column="35" selection-start-line="215" selection-start-column="35" selection-end-line="215" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/datang/jdk/jdk1.8/src.zip!/java/util/concurrent/RejectedExecutionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="59" column="7" lean-forward="true" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/datang/jdk/jdk1.8/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="133" column="5" lean-forward="true" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/datang/jdk/jdk1.8/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="1309" column="31" lean-forward="true" selection-start-line="1309" selection-start-column="31" selection-end-line="1309" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/interviewquestion/executerpool/MyThreadPoolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juc/src/com/atguigu/juc03/DeadLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/interviewquestion/consumerproducer/ProdConsumer_TraditionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/interviewquestion/juc/DeadLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/HelloGC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/StrongReferenceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/SoftReferenceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/WeakReferenceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/datang/jdk/jdk1.8/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="623" column="7" lean-forward="true" selection-start-line="623" selection-start-column="7" selection-end-line="623" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/WeakHashMapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/ReferenceQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="14" column="69" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="14" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/StackOverflowErrorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/datang/jdk/jdk1.8/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="3154" column="10" lean-forward="true" selection-start-line="3154" selection-start-column="10" selection-end-line="3154" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/JavaHeapSpaceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/PhantomReferenceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/datang/jdk/jdk1.8/src.zip!/java/nio/ByteBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="331" column="34" selection-start-line="331" selection-start-column="34" selection-end-line="331" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/DirectBufferMemoryDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/datang/jdk/jdk1.8/src.zip!/java/nio/DirectByteBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="124" column="22" lean-forward="true" selection-start-line="124" selection-start-column="22" selection-end-line="124" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/datang/jdk/jdk1.8/src.zip!/java/lang/ThreadGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="885" column="9" selection-start-line="885" selection-start-column="9" selection-end-line="885" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/datang/jdk/jdk1.8/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="1820" lean-forward="true" selection-start-line="1820" selection-end-line="1820" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/java8/lib/cglib-2.1_3.jar!/net/sf/cglib/proxy/Enhancer.class" />
+    <entry file="jar://$USER_HOME$/.ideaLibSources/cglib-2.1_3-sources.jar!/net/sf/cglib/proxy/Enhancer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="669">
+          <caret line="173" column="5" selection-start-line="173" selection-start-column="5" selection-end-line="173" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study_jvm/src/com/book/chapter01/RuntimeConstantPoolOOM01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study_jvm/src/com/book/chapter01/RuntimeConstantPoolOOM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study_jvm/src/com/book/chapter01/JavaVMStackSOF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study_jvm/src/com/book/chapter01/JavaMethodAreaOOM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study_jvm/src/com/book/chapter01/JavaVMStackOOM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/GCOverheadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/UnableCreateNewThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/java8/lib/cglib-3.2.8.jar!/net/sf/cglib/core/TypeUtils.class" />
+    <entry file="jar://$PROJECT_DIR$/java8/lib/cglib-nodep-2.1_3.jar!/net/sf/cglib/proxy/Enhancer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="143" column="5" lean-forward="true" selection-start-line="143" selection-start-column="5" selection-end-line="143" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/MetaspaceOOMTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="28" column="6" lean-forward="true" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/HelloGC02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8/src/interviewquestion/jvmgc/GCRootDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>java8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>asm-3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
